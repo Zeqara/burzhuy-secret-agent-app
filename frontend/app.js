@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // ЭТОТ АДРЕС МЫ ПОЛУЧИМ НА СЛЕДУЮЩЕМ ШАГЕ ОТ RENDER
-    const API_BASE_URL = 'https://your-backend-url.onrender.com';
+   // ЭТОТ АДРЕС МЫ ПОЛУЧИМ НА СЛЕДУЮЩЕМ ШАГЕ ОТ RENDER
+const API_BASE_URL = 'https://burzhuy-secret-agent-app.onrender.com';
 
     const tg = window.Telegram.WebApp;
     tg.expand();
